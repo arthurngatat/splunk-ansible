@@ -1,1 +1,1 @@
-# splunk-ansible
+# splunk_ansible
